@@ -23,6 +23,6 @@ class InteractiveRecord
   end
 
   def
-
+  end
 
 end
